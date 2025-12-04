@@ -1,0 +1,5 @@
+{
+  "name": "Job Shop SimPy-like Visualizer",
+  "description": "A discrete-event simulation of a job shop production line (Moulding, Inspection, Packaging) focusing on queue analysis and degradation costs.",
+  "requestFramePermissions": []
+}
